@@ -94,15 +94,13 @@
                 android:background="#fff"
                 />
 
-            <TextViewx
+            <TextView
                 android:layout_width="40dp"
                 android:layout_height="wrap_content"
                 android:textColor="#fff"
                 android:gravity="center"
                 android:text="OR"
                 android:textSize="12sp"/>
-
-            <!--ESTE ES UN COMENTARIO-->
 
             <View
                 android:layout_width="wrap_content"
