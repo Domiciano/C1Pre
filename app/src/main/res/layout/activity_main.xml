@@ -118,7 +118,8 @@
             android:layout_marginTop="10dp"
             android:gravity="bottom|center_horizontal">
 
-            
+            ESTA UNA PRUEBA
+
             <ImageView
                 android:layout_width="30dp"
                 android:layout_height="30dp"
